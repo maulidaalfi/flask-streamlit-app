@@ -19,4 +19,8 @@ def predict():
     return jsonify(prediction=prediction[0])
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     app.run(debug=True)
+=======
+    app.run(debug=True)
+>>>>>>> 05614750381307da17ca8cf7dd2ce25cc132e33c
